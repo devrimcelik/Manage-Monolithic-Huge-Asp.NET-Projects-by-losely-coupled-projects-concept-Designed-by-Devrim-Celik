@@ -1,5 +1,5 @@
 Manage Monoltic Huge Asp.NET Projects with losely coupled projects concept 
-Desingned by Devrim Çelik
+Designed by Devrim Çelik
 Benefits
 Very fast compile,  low compilation time
 Very fast deployment
