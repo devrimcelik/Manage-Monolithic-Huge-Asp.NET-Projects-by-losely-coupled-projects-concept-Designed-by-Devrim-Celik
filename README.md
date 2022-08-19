@@ -4,7 +4,7 @@ Benefits
 Very fast compile,  low compilation time
 Very fast deployment
 Continues production integration without downtime
-Building only changed project 
+Build only changed project 
 Any compile error affects only its own project, not the solution
 Manage all the projects with global.asax application pipelines
 Ability to use C#, VB.NET, F# in same solution
