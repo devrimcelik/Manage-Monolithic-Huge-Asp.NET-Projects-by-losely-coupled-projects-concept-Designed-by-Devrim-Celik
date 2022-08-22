@@ -1,4 +1,4 @@
-Manage Monolitic Huge Asp.NET Projects by losely coupled projects concept 
+Manage Monolithic Huge Asp.NET Projects by losely coupled projects concept 
 Designed by Devrim Çelik
 Benefits
 Very fast compile,  low compilation time
