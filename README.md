@@ -11,4 +11,4 @@ Ability to use C#, VB.NET, F# in same solution
 One IIS application for Solution
 Less opeation team and less developer needs
 Single error logging management
-More information visit https://www.devrimcelik.net/monolithic
+More information visit https://www.devrimcelik.net/Monolithic
